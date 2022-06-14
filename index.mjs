@@ -4,6 +4,6 @@
 
 // you can safely assume that all inputs will be valid roman numerals
 
-export function romanNumeralsTranslator() {
-  return 1
+export function romanNumeralsTranslator(romanNumeral) {
+  return
 }
